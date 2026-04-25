@@ -1,6 +1,6 @@
 # Repetz
 
-> Full-stack SaaS platform for pet shop management — scheduling, inventory, financial analytics, WhatsApp automation, and more.
+> Production SaaS platform for pet shop management with active paying customers.
 
 🐾 **[repetz.com.br](https://repetz.com.br)**
 
@@ -8,7 +8,8 @@
 
 ## Overview
 
-Repetz is a SaaS platform I co-founded and built for pet shop management. Launched in late 2025, it's currently in production with paying customers across Brazil.
+Repetz is a production SaaS platform I co-founded and built end-to-end for pet shop management, currently serving real customers.
+Launched in late 2025, it's currently in production with paying customers across Brazil.
 
 The platform centralizes everything a pet shop needs to operate: intelligent scheduling, client and pet records, inventory control, financial reporting with AI, WhatsApp automation, and commission tracking.
 
@@ -64,7 +65,7 @@ Grooming (fixed location), Mobile Grooming, Pet Hotel & Daycare, Dog Walking / P
 
 Repetz was built using the [ai-dev-pipeline](https://github.com/rmb34/ai-dev-pipeline) — a multi-agent development workflow where specialized AI agents handle everything from technical spec writing to implementation, testing, and automated Git commits.
 
-This allowed a small team to deliver a full-featured SaaS from zero to production with paying customers, while maintaining architectural consistency and code quality throughout.
+This approach enabled a small team to build and ship a full-featured SaaS from zero to production with paying customers, maintaining architectural consistency and high code quality throughout.
 
 ---
 
